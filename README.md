@@ -1,1 +1,1 @@
-# fundamentals-ggplot2-pearson
+## Fundamentals of Data Visualization Design with ggplot2
