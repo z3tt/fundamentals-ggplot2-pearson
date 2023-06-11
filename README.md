@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;Hands–On Data Visualization with {ggplot2}: Concepts&nbsp;
+  &nbsp;"Hands–On Data Visualization with {ggplot2}: Concepts"<br>Material for the Pearson Live Training Session for O’Reilly&nbsp;
 </h1>
 
 <div align="center">
@@ -17,20 +17,27 @@
 <br>
 
 
-## Material for the Pearson Live Training Session for O’Reilly
-
 This is the first training of a two-part workshop series "Create Data Visualizations in R Using the Grammar of Graphics”.
-To get a copy of all the material, clone this repository to a directory of your choice or download and unpack [this zip folder](https://github.com/z3tt/fundamentals-ggplot2-pearson/archive/refs/heads/main.zip).  
 
 <hr>
 
 ### Course Set-up
+
+#### Materials
+
+To get a copy of all the material, **clone this repository** to a directory of your choice or **download and unpack [this zip folder](https://github.com/z3tt/fundamentals-ggplot2-pearson/archive/refs/heads/main.zip)**. 
   
+#### Sofware
+
 To run any of the materials locally on your own machine, you will need to install the following:
 
 - A recent version of **R** (download from [here](https://cloud.r-project.org/)) 
 - A recent version of **RStudio** (download from [here](https://rstudio.com/products/rstudio/download/#download))
-- The following **R packages**:
+ 
+#### Packages
+ 
+This training makes use of the following R packages:
+
   + ggplot2
   + readr
   + dplyr
@@ -39,10 +46,7 @@ To run any of the materials locally on your own machine, you will need to instal
   + ragg
   + scales
   + gapminder
- - The **[Asap Condesed](https://fonts.google.com/specimen/Asap+Condensed) typeface**
- 
- #### Packages
- 
+
 You can install all required R packages at once by running the following code in the R command line:
 
 ```{r install, eval=FALSE, echo=TRUE}
@@ -55,7 +59,7 @@ To run the code, open up Rstudio. Copy–paste the code in the **console pane** 
 
 #### Typefaces
 
-We are using a non-default font in this session. If you want to run all code "as it is", please install the [Asap Condesed](https://fonts.google.com/specimen/Asap+Condensed) typeface which is available for free. You find the files in the ./fonts folder. Install them by double-clicking.
+We are using a non-default font in this session. If you want to run all code "as it is", please install the **[Asap Condesed](https://fonts.google.com/specimen/Asap+Condensed) typeface** which is available for free. You find the files in the ./fonts folder. Install them by double-clicking.
 
 If you don't want to or can't install the fonts, it is still possible to run the code. Just make sure to replace the font families in the code with one that is installed on your system--or remove the respective rows (more information during the session).
 
