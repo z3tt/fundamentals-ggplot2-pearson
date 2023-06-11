@@ -16,10 +16,10 @@
 </div>
 <br>
 
-The first training of a two-part workshop series "Create Data Visualizations in R Using the Grammar of Graphics”.
 
 ## Material for the Pearson Live Training Session for O’Reilly
 
+This is the first training of a two-part workshop series "Create Data Visualizations in R Using the Grammar of Graphics”.
 To get a copy of all the material, clone this repository to a directory of your choice or download and unpack [this zip folder](https://github.com/z3tt/fundamentals-ggplot2-pearson/archive/refs/heads/main.zip).  
 
 <hr>
