@@ -19,22 +19,22 @@
 
 This is the first training of a two-part workshop series "Create Data Visualizations in R Using the Grammar of Graphics”.
 
-<hr>
+<br>
 
-### Course Set-up
+## Course Set-up
 
-#### Materials
+### Materials
 
 To get a copy of all the material, **clone this repository** to a directory of your choice or **download and unpack [this zip folder](https://github.com/z3tt/fundamentals-ggplot2-pearson/archive/refs/heads/main.zip)**. 
   
-#### Sofware
+### Sofware
 
 To run any of the materials locally on your own machine, you will need to install the following:
 
 - A recent version of **R** (download from [here](https://cloud.r-project.org/)) 
 - A recent version of **RStudio** (download from [here](https://rstudio.com/products/rstudio/download/#download))
  
-#### Packages
+### Packages
  
 This training makes use of the following R packages:
 
@@ -57,18 +57,18 @@ install.packages(unavailable)
 
 To run the code, open up Rstudio. Copy–paste the code in the **console pane** and hit enter. Several messages should pop up. Scan these messages that are returned for errors and troubleshoot them if necessary. Warnings and other informational messages can be ignored.
 
-#### Typefaces
+### Typefaces
 
 We are using a non-default font in this session. If you want to run all code "as it is", please install the **[Asap Condesed](https://fonts.google.com/specimen/Asap+Condensed) typeface** which is available for free. You find the files in the ./fonts folder. Install them by double-clicking.
 
 If you don't want to or can't install the fonts, it is still possible to run the code. Just make sure to replace the font families in the code with one that is installed on your system--or remove the respective rows (more information during the session).
 
-#### For Mac Users
+### For Mac Users
 
 If you want to save your visualization to PDF, please make sure that [XQuartz](https://www.xquartz.org/) is installed which is needed to use the cairo pdf device.
 
-<hr>
+<br>
 
-### Run the Codes 
+## Run the Codes 
 
 Double-click on the `fundamentals-ggplot2-pearson.Rproj` file. Rstudio opens up with the working directory set to the same folder (i.e. the directory where the Rproj file is placed). Now, you can open any script from the files pane (by default in the lower right). To follow the training, open `undamentals-ggplot2-pearson.R`.
