@@ -21,7 +21,7 @@ The first training of a two-part workshop series enttile "Create Data Visualizat
 ## Material for the Pearson Live Training Session for O’Reilly
 
 To get a copy of all the material, clone this repository to a directory of your choice.  
-If you are not familiar how to clone a repository, have a look [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) or download and unpack [this zip folder](https://github.com/z3tt/hands-on-ggplot2-training/archive/refs/heads/main.zip).  
+If you are not familiar how to clone a repository, have a look [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) or download and unpack [this zip folder](https://github.com/z3tt/fundamentals-ggplot2-pearson/archive/refs/heads/main.zip).  
   
 To run any of the materials locally on your own machine, you will need to install the following:
 
