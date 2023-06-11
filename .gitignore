@@ -51,8 +51,9 @@ rsconnect/
 # img folder
 img/
 
-# slides
+# slide files
 fundamentals-ggplot2-pearson.qmd
 fundamentals-ggplot2-pearson.html
 fundamentals-ggplot2-pearson.pdf
 fundamentals-ggplot2-pearson_files/*
+css/*
