@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;“Hands–On Data Visualization with ggplot2”; Concepts&nbsp;
+  &nbsp;Hands–On Data Visualization with {ggplot2}: Concepts&nbsp;
 </h1>
 
 <div align="center">
@@ -45,14 +45,20 @@ To run any of the materials locally on your own machine, you will need to instal
 You can install all required R packages at once by running the following code in the R command line:
 
 ```{r install, eval=FALSE, echo=TRUE}
-pkgs <- c("ggplot2",  "dplyr", "readr","forcats", "stringr", "scales", "ragg", "gapminder")unavailable <- setdiff(pkgs, rownames(installed.packages()))install.packages(unavailable)
+pkgs <- c("ggplot2",  "dplyr", "readr","forcats", "stringr", "scales", "ragg", "gapminder")
+unavailable <- setdiff(pkgs, rownames(installed.packages()))
+install.packages(unavailable)
 ```
 
 To run the code, open up Rstudio. Copy–paste the code in the **console pane** and hit enter. Several messages should pop up. Scan these messages that are returned for errors and troubleshoot them if necessary. Warnings and other informational messages can be ignored.
 
 #### Typefaces
 
-We are using a non-default font in this session. If you want to run all code "as it is", please install the [Asap Condesed](https://fonts.google.com/specimen/Asap+Condensed) typeface which is available for free. You find the files in the ./fonts folder. Install them by double-clicking.If you don't want to or can't install the fonts, it is still possible to run the code. Just make sure to replace the font families in the code with one that is installed on your system--or remove the respective rows (more information during the session).#### For Mac Users: 
+We are using a non-default font in this session. If you want to run all code "as it is", please install the [Asap Condesed](https://fonts.google.com/specimen/Asap+Condensed) typeface which is available for free. You find the files in the ./fonts folder. Install them by double-clicking.
+
+If you don't want to or can't install the fonts, it is still possible to run the code. Just make sure to replace the font families in the code with one that is installed on your system--or remove the respective rows (more information during the session).
+
+#### For Mac Users: 
 If you want to save your visualization to PDF, Please make sure that [XQuartz](https://www.xquartz.org/) is installed which is needed to use the cairo pdf device.
 
 ### Run the Scripts 
