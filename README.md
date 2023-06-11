@@ -29,7 +29,7 @@ To run any of the materials locally on your own machine, you will need to instal
 
 - A recent version of **R** (download from [here](https://cloud.r-project.org/)) 
 - A recent version of **RStudio**, (download from [here](https://rstudio.com/products/rstudio/download/#download))
-- The following R packages:
+- The following **R packages**:
   + ggplot2
   + readr
   + dplyr
@@ -38,7 +38,7 @@ To run any of the materials locally on your own machine, you will need to instal
   + ragg
   + scales
   + gapminder
- - The "Asap Condensed" typeface
+ - The **[Asap Condesed](https://fonts.google.com/specimen/Asap+Condensed) typeface**
  
  #### Packages
  
