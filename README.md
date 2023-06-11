@@ -54,7 +54,7 @@ unavailable <- setdiff(pkgs, rownames(installed.packages()))
 install.packages(unavailable)
 ```
 
-To run the code, open up Rstudio. Copy–paste the code in the **console pane** and hit enter. Several messages should pop up. Scan these messages that are returned for errors and troubleshoot them if necessary. Warnings and other informational messages can be ignored.
+To run the code, open up Rstudio. Copy–paste the code in the **console pane** (by default in the lower left) and hit enter. Several messages should pop up. Scan these messages that are returned for errors and troubleshoot them if necessary. Warnings and other informational messages can be ignored.
 
 ### Fonts
 
