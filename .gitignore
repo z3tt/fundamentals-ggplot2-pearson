@@ -48,3 +48,8 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+# img folder
+img/
+
+# high-res pdf file
+fundamentals-ggplot2-pearson.pdf
