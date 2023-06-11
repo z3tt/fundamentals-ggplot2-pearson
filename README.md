@@ -16,7 +16,7 @@
 </div>
 <br>
 
-The first training of a two-part workshop series enttile "Create Data Visualizations in R Using the Grammar of Graphics”.
+The first training of a two-part workshop series "Create Data Visualizations in R Using the Grammar of Graphics”.
 
 ## Material for the Pearson Live Training Session for O’Reilly
 
