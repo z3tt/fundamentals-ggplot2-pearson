@@ -70,4 +70,6 @@ If you want to save your visualization to PDF, please make sure that [XQuartz](h
 
 ## Run the Codes 
 
-Double-click on the `fundamentals-ggplot2-pearson.Rproj` file. Rstudio opens up with the working directory set to the same folder (i.e. the directory where the Rproj file is placed). Now, you can open any script from the files pane (by default in the lower right). To follow the training, open `undamentals-ggplot2-pearson.R`.
+**Double-click on the `fundamentals-ggplot2-pearson.Rproj` file** which opens up Rstudio with the working directory set to the same folder (i.e. the directory where the Rproj file is placed). 
+
+Now, you can open any script from the files pane (by default in the lower right). To follow the training, **open `fundamentals-ggplot2-pearson.R`**.
