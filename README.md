@@ -28,7 +28,7 @@ If you are not familiar how to clone a repository, have a look [here](https://do
 To run any of the materials locally on your own machine, you will need to install the following:
 
 - A recent version of **R** (download from [here](https://cloud.r-project.org/)) 
-- A recent version of **RStudio**, (download from [here](https://rstudio.com/products/rstudio/download/#download))
+- A recent version of **RStudio** (download from [here](https://rstudio.com/products/rstudio/download/#download))
 - The following **R packages**:
   + ggplot2
   + readr
@@ -45,7 +45,7 @@ To run any of the materials locally on your own machine, you will need to instal
 You can install all required R packages at once by running the following code in the R command line:
 
 ```{r install, eval=FALSE, echo=TRUE}
-pkgs <- c("ggplot2",  "dplyr", "readr","forcats", "stringr", "scales", "ragg", "gapminder")
+pkgs <- c("ggplot2", "dplyr", "readr","forcats", "stringr", "scales", "ragg", "gapminder")
 unavailable <- setdiff(pkgs, rownames(installed.packages()))
 install.packages(unavailable)
 ```
