@@ -58,12 +58,10 @@ We are using a non-default font in this session. If you want to run all code "as
 
 If you don't want to or can't install the fonts, it is still possible to run the code. Just make sure to replace the font families in the code with one that is installed on your system--or remove the respective rows (more information during the session).
 
-#### For Mac Users: 
-If you want to save your visualization to PDF, Please make sure that [XQuartz](https://www.xquartz.org/) is installed which is needed to use the cairo pdf device.
+#### For Mac Users
 
-### Run the Scripts 
+If you want to save your visualization to PDF, please make sure that [XQuartz](https://www.xquartz.org/) is installed which is needed to use the cairo pdf device.
+
+### Run the Codes 
 
 Double-click on the `fundamentals-ggplot2-pearson.Rproj` file. Rstudio opens up with the working directory set to the same folder (i.e. the directory where the Rproj file is placed). Now, you can open any script from the files pane (by default in the lower right). To follow the training, open `undamentals-ggplot2-pearson.R`.
-
-  
-  
