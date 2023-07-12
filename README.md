@@ -58,7 +58,7 @@ To run the code, open up Rstudio. Copy–paste the code in the **console pane** 
 
 ### Fonts
 
-We are using a non-default font in this session. If you want to run all code "as it is", please install the **[Asap Condesed](https://fonts.google.com/specimen/Asap+Condensed) typeface** which is available for free. You find the files in the ./fonts folder. Install them by double-clicking.
+We are using a non-default font in this session. If you want to run all code "as it is", please install the **[Asap Condensed](https://fonts.google.com/specimen/Asap+Condensed) typeface** which is available for free. You find the files in the ./fonts folder. Install them by double-clicking.
 
 If you don't want to or can't install the fonts, it is still possible to run the code. Just make sure to replace the font families in the code with one that is installed on your system--or remove the respective rows (more information during the session).
 
