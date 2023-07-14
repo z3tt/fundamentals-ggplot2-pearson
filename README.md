@@ -58,7 +58,7 @@ To run the code, open up Rstudio. Copy–paste the code in the **console pane** 
 
 ### Fonts
 
-We are using a non-default font in this session. If you want to run all code "as it is", please install the **[Asap Condensed](https://fonts.google.com/specimen/Asap+Condensed) typeface** which is available for free. You find the files in the ./fonts folder. Install them by double-clicking.
+We are using a non-default font in this session. If you want to run all code "as it is", please install the **[Asap Condensed](https://fonts.google.com/specimen/Asap+Condensed) typeface** which is available for free. You find the files in the `fonts folder`. Install them by double-clicking.
 
 If you don't want to or can't install the fonts, it is still possible to run the code. Just make sure to replace the font families in the code with one that is installed on your system--or remove the respective rows (more information during the session).
 
@@ -72,4 +72,6 @@ If you want to save your visualization to PDF, please make sure that [XQuartz](h
 
 **Double-click on the `fundamentals-ggplot2-pearson.Rproj` file** which opens up Rstudio with the working directory set to the same folder (i.e. the directory where the Rproj file is placed). 
 
-Now, you can open any script from the files pane (by default in the lower right). To follow the training, **open `fundamentals-ggplot2-pearson.R`**.
+Now, you can open any script from the files pane (by default in the lower right). 
+
+To follow the training, **open the script `fundamentals-ggplot2-pearson.R`**.
